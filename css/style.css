@@ -3,13 +3,17 @@
   src: url("../fonts/LucidaSansUnicode.woff2") format("woff2"), url("/fonts/LucidaSansUnicode.woff") format("woff");
   font-weight: normal;
   font-style: normal;
-  font-display: swap; }
+  font-display: swap; 
+}
+
 @font-face {
   font-family: "Delicious - Roman";
   src: url("../fonts/Delicious-Roman.woff2") format("woff2"), url("fonts/Delicious-Roman.woff") format("woff");
   font-weight: normal;
   font-style: normal;
-  font-display: swap; }
+  font-display: swap;
+}
+
 .visually-hidden:not(:focus):not(:active),
 input[type="checkbox"].visually-hidden,
 input[type="radio"] .visually-hidden {
@@ -23,7 +27,8 @@ input[type="radio"] .visually-hidden {
   -webkit-clip-path: inset(100%);
           clip-path: inset(100%);
   clip: rect(0 0 0 0);
-  overflow: hidden; }
+  overflow: hidden; 
+}
 
 html {
   scroll-behavior: smooth; }
