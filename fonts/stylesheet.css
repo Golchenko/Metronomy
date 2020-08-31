@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Lucida Sans Unicode';
+    src: url('/fonts/LucidaSansUnicode.woff2') format('woff2'), url('/fonts/LucidaSansUnicode.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Delicious';
+    src: url('/fonts/Delicious-Roman.woff2') format('woff2'), url('fonts/Delicious-Roman.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
